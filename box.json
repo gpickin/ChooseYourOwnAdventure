@@ -1,0 +1,12 @@
+{
+    "name":"Choose Your Own Adventure",
+    "version":"1.0.0",
+    "author":" Gavin Pickin",
+    "homepage":"https://github.com/gpickin/ChooseYourOwnAdventure",
+    "documentation":"https://github.com/gpickin/ChooseYourOwnAdventure",
+    "bugs":"https://github.com/gpickin/ChooseYourOwnAdventure/issues",
+    "slug":"onceUponATime",
+    "shortDescription":"CommandBox choose your own adventure game",
+    "description":"CommandBox Command that takes you on an adventure, through a short choose your own story written by a 3rd grader, Paul Channel.",
+    "type":"commandbox-commands"
+}
