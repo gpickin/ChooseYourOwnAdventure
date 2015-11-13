@@ -3,7 +3,7 @@ CommandBox Command that takes you on an adventure, through a short choose-your-o
 
 Install this command into CommandBox CLI like so:
 ```bash
-isntall onceUponATime
+install onceUponATime
 ```
 
 Then run it with this command:
