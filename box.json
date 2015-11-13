@@ -2,6 +2,7 @@
     "name":"Choose Your Own Adventure",
     "version":"1.0.0",
     "author":" Gavin Pickin",
+    "createPackageDirectory":false,
     "homepage":"https://github.com/gpickin/ChooseYourOwnAdventure",
     "documentation":"https://github.com/gpickin/ChooseYourOwnAdventure",
     "bugs":"https://github.com/gpickin/ChooseYourOwnAdventure/issues",
